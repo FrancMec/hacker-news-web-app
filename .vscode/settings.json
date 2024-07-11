@@ -1,0 +1,5 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/91f2d05e-9cd8-42f2-8623-5854a7e0d481/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/hacker-news-web-app",
+  "appService.deploySubpath": "dist",
+  "appService.showBuildDuringDeployPrompt": false
+}
