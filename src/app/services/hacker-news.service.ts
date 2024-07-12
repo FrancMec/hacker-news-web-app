@@ -8,7 +8,7 @@ import { HackerNewsResponse } from '../models/hackerNewsResponse';
   providedIn: 'root',
 })
 export class HackerNewsService {
-  private apiUrl = 'https://hacker-news-web-api.azurewebsites.net/api/';
+  private apiUrl = 'https://localhost:7083/api/';
 
   constructor(private http: HttpClient) {}
 
